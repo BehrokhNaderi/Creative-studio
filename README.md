@@ -3,7 +3,7 @@
 
 ![viewfinal](https://github.com/user-attachments/assets/32a002a5-76f9-4ac3-a98b-295b030f9b8e)
 
-![view final](https://user-images.githubusercontent.com/109727844/204102930-fac80657-4d16-4816-b476-a88e984abefe.jpg)
+![view final](https://github.com/user-attachments/assets/497f96a3-83e8-467b-97ed-ab8d379c0710)
 
 - [Demo Project](https://behrokhnaderi.github.io/Creative-studio/)
 
