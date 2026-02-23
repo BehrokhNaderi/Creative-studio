@@ -5,7 +5,7 @@
 
 ![view final](https://github.com/user-attachments/assets/497f96a3-83e8-467b-97ed-ab8d379c0710)
 
-- [Demo Project](https://behrokhnaderi.github.io/Creative-studio/)
+- [Demo Project](https://behrokh-dev.github.io/Creative-studio/)
 
 - Developed by Behrokh Naderi
 
